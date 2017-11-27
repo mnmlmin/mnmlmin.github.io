@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #00897b;
+}
+.nav__bar_f {
+    background-color: #c62828;
+}
+.nav__bar_f li > a {
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+.nav__bar_f li > a:hover {
+    color: red;
+}
+.nav__color__logo {
+    color: #fff;
+    font-size: 1.6rem;
+}
+.nav__color__logo:hover {
+    color: #fff;
+}
+.jumbo__hub {
+    background-color: #00897b;
+}
+.cards__bellow {
+    color: #fff;
+    text-align: center;
+    padding: 20;
+}
+.btn-lg {
+    background-color: #b71c1c;
+}
+.big__responvise_card {
+    color: #fff;
+    text-align: center;
+    padding: 20;
+}
+.big__footers_names {
+    color: #fff;
+    font-size: 1.2rem;
+    
+}
+.list__style__footer {
+    list-style-type: none;
+    background-color: 787878;
+    padding: 10px;
+}
+.list__style__footer li a{
+    color: #fff;
+    font-size: 1.2rem;
+}
+.list__style__footer li {
+    color: #fff;
+    font-size: 1.2rem
+}
+.services_ {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.services__styles {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.otstup {
+    height: 20px;
+}
+
+#toTop {
+
+border:2px solid #ccc;
+    border-radius: 25px;
+
+position:fixed;
+bottom:20px; /* отступ кнопки от нижнего края страницы*/
+right:20px;
+cursor:pointer;
+display:none;
+color:#fff;
+font-family:verdana;
+font-size:55px;
+
+}
